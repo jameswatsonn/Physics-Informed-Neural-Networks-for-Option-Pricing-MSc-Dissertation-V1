@@ -23,6 +23,6 @@ Developed a novel AI pricing engine using Physics-Informed Neural Networks (PINN
 
 - **Report:** Full project report available for preview or download via the links below:
 
-**[⬇️ Preview Full Dissertation (PDF)](https://github.com/jameswatsonn/Physics-Informed-Neural-Networks-for-Option-Pricing-MSc-Dissertation-V1/blob/main/Report%20PDF/Physics-Informed%20Neural%20Networks%20for%20Parametric%20and%20Non-Parametric%20Option%20Pricing_From%20Black-Scholes%20to%20Stochastic%20Volatility%20(8).pdf)**
+**[👁️ Preview Full Dissertation (PDF)](https://github.com/jameswatsonn/Physics-Informed-Neural-Networks-for-Option-Pricing-MSc-Dissertation-V1/blob/main/Report%20PDF/Physics-Informed%20Neural%20Networks%20for%20Parametric%20and%20Non-Parametric%20Option%20Pricing_From%20Black-Scholes%20to%20Stochastic%20Volatility%20(8).pdf)**
 
 **[⬇️ Download Full Dissertation (PDF)](https://github.com/jameswatsonn/Physics-Informed-Neural-Networks-for-Option-Pricing-MSc-Dissertation-V1/raw/main/Report%20PDF/Physics-Informed%20Neural%20Networks%20for%20Parametric%20and%20Non-Parametric%20Option%20Pricing_From%20Black-Scholes%20to%20Stochastic%20Volatility%20(8).pdf)**
